@@ -1,0 +1,24 @@
+{
+  "name": "semantic",
+  "version": "1.0.0",
+  "description": "this is the starter code for semantic ui tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderanderson/semanticUITutorial.git"
+  },
+  "author": "Ming Zong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderanderson/semanticUITutorial/issues"
+  },
+  "homepage": "https://github.com/coderanderson/semanticUITutorial#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "semantic-ui": "^2.2.13"
+  }
+}
